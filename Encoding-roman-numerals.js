@@ -56,3 +56,5 @@ function solution(number){
     return prev;
   }, '');
 }
+
+// or
